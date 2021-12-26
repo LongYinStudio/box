@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">百宝箱</string>
+    <string name="login_button">QQ登录</string>
+    <string name="exit_button">退出登录</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="online_ps">在线PS</string>
+    <string name="tencent_computer_software">腾讯电脑软件大全</string>
+</resources>
